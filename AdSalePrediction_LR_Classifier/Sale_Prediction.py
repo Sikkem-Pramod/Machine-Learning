@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""Ad Sale Prediction from Existing customer - Logistic Regression.ipynb
+""" Sale Prediction from Existing customer - Logistic Regression.ipynb
 
-# Ad Sale Prediction from Existing customer - Logistic Regression
+# Sale Prediction from Existing customer - Logistic Regression
 
 ### *Importing Libraries*
 """
